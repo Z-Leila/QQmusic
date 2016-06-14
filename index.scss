@@ -100,7 +100,7 @@ $icon:(
 @each $class-name in map_keys($icon){
 	$site: map_get($icon,$class-name);
 	.#{$class-name} {
-		background: url(../images/player_bg.png) no-repeat;
+		background: url(images/player_bg.png) no-repeat;
 		background-position: $site;
 	}; 
 }
@@ -336,7 +336,7 @@ p.volume{
 	    	height: 6px;
 	    	@include weizhi(0,0,-1px,0);
 	    	z-index: 3;
-	    	background: url(../images/progress_op.png) no-repeat;
+	    	background: url(images/progress_op.png) no-repeat;
 	    }
 	}
 }

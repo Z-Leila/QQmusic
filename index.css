@@ -69,132 +69,132 @@ a {
 }
 
 .icon_radio {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -453px -55px;
 }
 
 .btn_like {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: 0 -127px;
 }
 
 .btn_share {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -16px -127px;
 }
 
 .prev_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -69px 0;
 }
 
 .play_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -105px 0;
 }
 
 .pause_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -291px -88px;
 }
 
 .next_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -147px 0;
 }
 
 .circle_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -219px 0;
 }
 
 .circle_btt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -376px -44px;
 }
 
 .circle_single_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -376px 0;
 }
 
 .ordered_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -408px 0;
 }
 
 .unordered_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -408px -44px;
 }
 
 .volume_icon {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -189px -3px;
 }
 
 .volume_mute {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -152px -63px;
 }
 
 .volume_regulate {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -291px -11px;
 }
 
 .volume_bar {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -291px 0;
 }
 
 .volume_op {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -366px 0;
 }
 
 .active_tip {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -376px -89px;
 }
 
 .open_list {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -222px -97px;
 }
 
 .btn_lyrics_disabled {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -452px 0;
 }
 
 .folded_bt {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: 0 0;
 }
 
 .close_list {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -269px -97px;
 }
 
 .btn_fav {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -64px -127px;
 }
 
 .btn_del {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -48px -127px;
 }
 
 .btn_down {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -32px -127px;
 }
 
 .close_lyrics {
-  background: url(../images/player_bg.png) no-repeat;
+  background: url(images/player_bg.png) no-repeat;
   background-position: -503px 0;
 }
 
@@ -480,7 +480,7 @@ p.volume .volume_regulate .volume_op {
   top: -1px;
   right: 0;
   z-index: 3;
-  background: url(../images/progress_op.png) no-repeat;
+  background: url(images/progress_op.png) no-repeat;
 }
 
 .player .time_show .icon_arrow_foot .foot_border, .player .time_show .icon_arrow_foot .foot_arrow {
